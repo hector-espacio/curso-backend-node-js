@@ -1,0 +1,12 @@
+/* style.css */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    color: #b30000; /* Un tono rojizo similar al de la previsualización del navegador */
+    text-align: center;
+    margin-top: 40px;
+}
